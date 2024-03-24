@@ -1,0 +1,236 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#img
+{ 
+  width:100%;
+  background-image:/*linear-gradient( to right, #000000f9 40%, transparent 58% ),*/ url(https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP.jpg);
+  background-repeat: no-repeat;
+  padding-bottom: 5px;
+  margin-top: 20px;
+}
+/*#item1
+{ 
+    display: inline;
+    height:10px;
+    width:50px;
+    color:white;
+    padding-left: 200px;
+    margin-top: 200px;
+}*/
+
+#nav
+{
+    height:3.9vh;
+    width:100%;
+    background-color: black;
+    color: aliceblue;
+    margin-bottom: 500px;
+    /*padding-top: 200px;*/
+    margin-bottom: 112px;
+    margin-bottom: bottom;
+
+}
+#item6{
+   padding-left: 60px;
+   padding-top: 300px;
+}
+#item2
+{
+    padding-left: 60px;
+    padding-top: 300px;
+}
+#item3
+{
+    padding-left:60px;
+    padding-top: 200px;
+}
+#item4
+{
+    padding-left: 60px;
+    padding-top: 300px;
+}
+#item5
+{
+    padding-left: 60px;
+    padding-top: 300px;
+}
+#item2:hover
+{ 
+    display: block;
+    content: "Movies";
+    content: "TV Shows";
+}
+.fa-solid fa-magnifying-glass
+{
+    padding-left: 20px;
+}
+#item8
+{
+    padding-left:40px;
+}
+#item9
+{
+    padding-left: 80px;
+}
+#item10
+{
+    padding-left: 40px;
+}
+#item11
+{
+    padding-left: 40px;
+}
+input:focus
+{
+    background-color: white;  
+}
+#item12
+{   font-size: 50px;
+    padding-top: 50px;
+    padding-left:20px ;
+    color:white;
+}
+#item13
+{ 
+    font-size: 20px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    color: white;
+}
+button
+{
+    color:white;
+    background-color: #0f79af;
+    margin-left: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+#item14
+{   font-size: 50px;
+    padding-top: 140px;
+    padding-left: 20px;
+    color:white;
+}
+#item15
+{ 
+    font-size: 20px;
+    /*padding-bottom: 50px;
+    padding-left: 20px;*/
+    color: white;
+}
+#item16
+{
+    color:white;
+    /*background-color: #0f79af;*/
+    /*margin-left: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;*/
+    
+}
+.DVPAWebWidgetsCustomComponents_Image__image
+{
+    height:100px;
+    width:100px;
+    margin-top: 300px;
+    margin-left:800px ;
+}
+.DVPAWebWidgetsCustomComponents_Image__image
+{
+    
+    height:100px;
+    width:100px;
+    margin:auto;
+    margin-top: 300px;
+    margin-left: 900px;
+}
+span
+{
+    display: inline;
+}
+#item17
+{
+    font-size: 15px;
+    color:black;
+}
+#item18
+{
+    font-size:50px;
+    color:black;
+}
+#item19
+{
+    margin-left: 990px;
+}
+#item21
+{
+    font-size: 20px;
+    /*padding-bottom: 50px;*/
+    padding-left: 20px;
+    color:white;
+    margin-top: -300px;
+    margin-bottom: -200px;
+    margin-left: 800px;
+    margin-right:200px;
+    padding-top: 300px;
+    
+
+}
+#item20
+{
+    font-size: 50px;
+    /*padding-bottom: 50px;*/
+    padding-right:20px;
+    color:white;
+    margin-top: -600px;
+    margin-left:700px;
+    /*margin-bottom: -200px;
+    margin-left: 300px;
+    margin-right: 200px;
+    padding-bottom: -100px;*/
+}
+#item22
+{
+    margin-left: 900px;
+    margin-top: 250px;
+}
+#footer
+{  
+    
+    padding-top: 250px;
+    background-color: #222222;
+}
+#imgg
+{
+    margin-top: 100px;
+    margin-left: 650px;
+}
+#para
+{   
+    padding-left: 500px;
+    color:#176aa6;
+    font-size: 25px;
+}
+#last
+{  
+    padding-left: 500px;
+    font-size: 25px;
+}
+#backimg
+{
+    height:100vh;
+    margin-top: 160px;
+    margin-bottom: 100px;
+    margin-right: 35px;
+    margin-left: 0px;
+    padding-left: 20px;
+    background-size: cover;;
+    background-image: url(https://m.media-amazon.com/images/G/31/AmazonVideo/2021/X-site/MLP/TVOD/TVOD_MLP_Right.jpg);
+}
